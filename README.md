@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek7348&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek7348" /> </p>
+
 - 🔭 I’m currently working on **Robot Bot.**
 
 - 👯 I’m looking to collaborate on **exciting projects.**
